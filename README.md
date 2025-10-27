@@ -4,7 +4,7 @@
 # [Github]the first project.
 
 ## 项目描述
-简单介绍这个项目是做什么的
+这个做为我github第一个项目
 
 ## 功能特点
 - 功能1
